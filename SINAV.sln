@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INTRO-OPSIYONEL", "INTRO-OPSIYONEL\INTRO-OPSIYONEL.csproj", "{EA3CD065-D774-46B8-B404-AEDD3AACC87C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SINAV-INTRO", "SINAV-INTRO\SINAV-INTRO.csproj", "{B18C80DF-7781-4FCD-87DC-5262E384A1E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA3CD065-D774-46B8-B404-AEDD3AACC87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA3CD065-D774-46B8-B404-AEDD3AACC87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA3CD065-D774-46B8-B404-AEDD3AACC87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA3CD065-D774-46B8-B404-AEDD3AACC87C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B18C80DF-7781-4FCD-87DC-5262E384A1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18C80DF-7781-4FCD-87DC-5262E384A1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18C80DF-7781-4FCD-87DC-5262E384A1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18C80DF-7781-4FCD-87DC-5262E384A1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77683472-0589-40AD-A2EF-7FD0CCAE135C}
+	EndGlobalSection
+EndGlobal
